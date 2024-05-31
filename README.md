@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uma introdução bem "real"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Veio a ideia de criar um vídeo com um robô humanoide que tivesse a voz muito parecida com a voz de uma pessoa de verdade. Ela fala sobre o crescimento da inteligência artificial e como a IA esta cada vez mais parecida com os humanos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://chatgpt.com) - Usado para criar o texto que o "humanoide" falou
+[D-ID](https://studio.d-id.com/) - Onde escolhi o modelo do robô e a integração do áudio para o vídeo
+[Clipchamp](https://app.clipchamp.com/) - Foi o conversor de texto em áudio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu pedi para o ChatGPT criar o texto inserido no Clipchamp, onde ele transformou o texto em áudio com voz feminina. Depois escolhi o modelo no D-ID, onde teve a integração do áudio com o robô. A inteligência artificial conseguiu unir o áudio com a expressão da boca da modelo e fazer uma fala mais natural e humana.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E aqui deixo o vídeo com áudio de como ficou o resultado
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
